@@ -1,6 +1,6 @@
 # Sketchy-Browser-Extensions
 
-## How to Identify a Suspicious Browser**
+## How to Identify a Suspicious Browser
 
 **1. User-Agent String Analysis**
 
